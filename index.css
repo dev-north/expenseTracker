@@ -1,0 +1,10 @@
+.form-item{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.edit{
+    align-self: left;
+}
+.delete{
+    align-self: right;
+}
